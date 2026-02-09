@@ -1,8 +1,8 @@
 Several images were included to demonstrate the image we were using.  
 
-image1: left: A diluted formulation  
+image1: Left: A diluted formulation  
 
-image1: right: The EC that was diluted into water with a ratio of 1:100  
+image1: Right: The EC that was diluted into water with a ratio of 1:100  
 
 image2: A homogeneous(kinitecally stable) formulation  
 
