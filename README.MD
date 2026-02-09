@@ -1,17 +1,17 @@
 Several images were included to demonstrate the image we were using.  
 
-image1: Left: A diluted formulation  
+image1: Left: A diluted formulation.  
 
-image1: Right: The EC that was diluted into water with a ratio of 1:100  
+image1: Right: The EC that was diluted into water with a ratio of 1:100.  
 
-image2: A homogeneous(kinitecally stable) formulation  
+image2: A homogeneous(kinitecally stable) formulation.  
 
-image3: A homogeneous(kinitecally stable) formulation  
+image3: A homogeneous(kinitecally stable) formulation.  
 
-image4: An inhomogeneous(creaming) formulation  
+image4: An inhomogeneous(creaming) formulation.  
 
-image5: An inhomogeneous(creaming) formulation  
+image5: An inhomogeneous(creaming) formulation.  
 
-image6: An inhomogeneous(sedimentation) formulation  
+image6: An inhomogeneous(sedimentation) formulation.  
 
-image7: An inhomogeneous(sedimentation) formulation  
+image7: An inhomogeneous(sedimentation) formulation.  
